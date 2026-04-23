@@ -22,5 +22,5 @@ The player must navigate through obstacles such as traps, rivers, and enemies wh
 
 <p>
   <img src="https://github.com/Ishani-Anuruddhika/2D-Game-/blob/main/Level_01" width="45%" height="250" style="object-fit: cover;"/>
-  <img src="https://github.com/Ishani-Anuruddhika/2D-Game-/blob/main/Level_02" width="45%" height="300" style="object-fit: cover;" />
+  <img src="https://github.com/Ishani-Anuruddhika/2D-Game-/blob/main/Level_02" width="45%" height="350" style="object-fit: cover;" />
 </p>
