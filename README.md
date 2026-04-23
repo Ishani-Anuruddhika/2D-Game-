@@ -21,6 +21,6 @@ The player must navigate through obstacles such as traps, rivers, and enemies wh
 ## 🎮 Game Screenshots
 
 <p align="center">
-  <img src="Level_01.png" width="45%" />
+  <img src="[Level_01.png" width="45%](https://github.com/Ishani-Anuruddhika/2D-Game-/commit/02ef87e26fc83a16255e96d4f2ae8eac873dca3c)" />
   <img src="level_02.png" width="45%" />
 </p>
